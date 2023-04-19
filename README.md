@@ -4,6 +4,7 @@ Built from an LDO rev. C kit
 
 # Features
 - [BTT Octopus](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0)
+- [Phaetus Rapido hotend](https://www.fabreeko.com/collections/hot-ends/products/phaetus-rapido-high-flow-hotend?variant=41941392916735)
 - [Can Bus SB2040](https://github.com/Mellow-3D/Fly-SB2040) (coming soon)
 - [Stealthburner](https://github.com/VoronDesign/Voron-Stealthburner)
 - [Snap hinges for 6mm sides/top](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/richardjm/snap-latch-2020) with [1.6mm brass shafts](https://www.aliexpress.us/item/2251832721555019.html)
