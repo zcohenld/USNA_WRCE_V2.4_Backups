@@ -1,4 +1,4 @@
-# Backup of USNA WCE Voron V2.4 350m Printer
+# Backup of USNA WRCE Voron V2.4 350m Printer
 Voron V2.4 printer built for the WRCE group at the U.S. Naval Academy
 Built from an LDO rev. C kit
 
