@@ -12,3 +12,4 @@ Built from an LDO rev. C kit
 - [Titanium backers](https://github.com/tanaes/whopping_Voron_mods/tree/main/extrusion_backers)
 - [Klicky](https://github.com/jlas1/Klicky-Probe)
 - [LED lighting with baffles](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/eddie/LED_Bar_Clip)
+- [FYSETC Hotkey](https://github.com/FYSETC/Hotkey)
